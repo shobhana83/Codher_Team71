@@ -1,0 +1,194 @@
+body{
+    margin: 0;
+    padding: 0;
+    background:#66d5f0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    font-family: sans-serif;
+}
+  
+.box{
+    background: #8ca0ae;
+    color: red;
+    top: 70%;
+    left: 40%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    box-sizing: border-box;
+    padding: 70px 30px;
+}
+.box2{
+    background: #8ca0ae;
+    color: red;
+    top: 66%;
+    left: 40%;
+    position: absolute;
+    transform: translate(-50%,-60%);
+    box-sizing: border-box;
+    padding: 70px 30px;
+}
+.user2{
+    width: 400px;
+    height: 670px;
+    position: absolute;
+    transform: translate(105%,10%);
+    right: 50%;
+    top: 13%;
+    display: block;
+    box-sizing: border-box;
+    padding: -30px 10px;
+    float: right;
+}
+.user1{
+    width: 400px;
+    height: 515px;
+    position: absolute;
+    transform: translate(100%,10%);
+    right: 50%;
+    top: 14%;
+    display: block;
+    box-sizing: border-box;
+    padding: -30px 10px;
+    float: right;
+}
+.user{
+    width: 80px;
+    height: 80px;
+    position:relative;
+    top: -20px;
+    left: calc(55% - 50px);
+}
+
+h1{
+    margin: 0;
+    padding: 0 0 20px;
+    text-align: center;
+    font-size: 22px;
+    color: rgb(85, 207, 229);
+}
+
+p{
+    color: #a0eb4b;
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+}
+
+input{
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+ input[type="text"], input[type="password"] ,input[type="email"]
+{
+    border: none;
+    border-bottom: 1px solid #fff;
+    background: transparent;
+    outline: none;
+    height: 40px;
+    color: #48d5e8;
+    font-size: 16px;
+}
+
+input[type="submit"]
+{
+    border: none;
+    outline: none;
+    height: 40px;
+    background: #91ee2e;
+    color: #fff;
+    font-size: 18px;
+    border-radius: 20px;
+
+}
+
+
+input[type="submit"]:hover
+{
+    cursor: pointer;
+    background: #0097a7;
+}
+
+a
+{
+    text-decoration: none;
+    font-size: 16px;
+    line-height: 20px;
+    color: #bff141;
+}
+
+
+a:hover
+{
+    color: rgb(95, 205, 232);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
